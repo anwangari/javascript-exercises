@@ -6,7 +6,6 @@ const sumAll = function(firstNumber, secondNumber) {
         for (i = number1; i < (number2 + 1); i++) {
             total += i;
         };
-        console.log(total);
         return total;
     };
 
